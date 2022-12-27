@@ -1,0 +1,154 @@
+* {
+    font-family:helvetica;
+}
+
+img {
+    max-width:55%;
+    min-width:400px;
+    display:block;
+    margin-bottom:20px;
+    margin-top:20px;
+    padding-top:10px;
+    margin-top:-15px;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+a:link {
+    text-decoration: none;
+    color:black;
+}
+
+a:visited {
+    text-decoration: none;
+    color:black;
+}
+
+a:hover{
+    text-decoration: underline;
+    color:black;
+}
+
+a:active {
+    text-decoration: underline;
+    color:black;
+}
+
+h1  {
+    margin-bottom:5px;
+    margin-left:auto;
+    margin-right:auto;
+    background:black;
+    color: white;
+    padding: 5px 0;
+    width:55%;
+    margin-top:20px;
+}
+
+h4, h3 {
+    background: black;
+    color:white;
+    margin-left:auto;
+    margin-right:auto;
+    border:solid 1px black;
+    width:55%;
+    padding: 10px 0;
+}
+
+body {
+    font-family:helvetica;
+    text-align:center;
+}
+
+p {
+    display:block;
+    padding:10px;
+    margin-left:auto;
+    margin-right:auto;
+    max-width:40%;
+}
+
+
+
+ol {
+    text-align: start;;
+    margin-left:auto;
+    margin-right:auto;
+    width:40%;
+    justify-content: start;
+    padding:20px;
+}
+
+/*
+.border {
+
+min-width:40%;
+width:55%;
+margin-left:auto;
+margin-right:auto;
+margin-top:20px;
+}
+*/
+
+.move {
+    border-top: 1px solid black;
+    margin-top: 10px;
+    margin-left:auto;
+    margin-right:auto;
+    width:55%;
+    font-size: 20px;
+    padding-bottom:-8px;
+    margin-bottom:0px;
+}
+
+hr {
+    width:55%;
+    border-top: 1px solid black;
+}
+
+br {
+    margin-top:-10px;
+}
+
+
+.color a:link:last-of-type {
+    color:black !important;
+}
+
+.color a:hover:last-of-type {
+    color:black !important;
+}
+
+
+
+.color a:visted:last-of-type {
+    color:black !important;
+}
+
+.color a:active:last-of-type {
+    color:black !important;
+} 
+
+footer {
+    color:black !important;
+}
+
+.block {
+    display:inline-block;
+    flex:wrap;
+}
+
+li, ul {
+    margin:20px;
+    text-align:center;
+    list-style-type: none;
+}
+
+.marg {
+    margin-top:10px;
+    padding-top:-30px;
+    font-style: italic;
+}
+
+.width {
+}

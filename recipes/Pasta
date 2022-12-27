@@ -1,0 +1,55 @@
+<!DOCTYPE>
+<html lang="en">
+
+        <html>
+            <head>
+            <link rel="stylesheet" href="styles.css">
+            <meta charset="UTF-8">
+            <meta name="viewport" content="device=device-width, initial scale=1.0">
+            <title>Odin Recipes</title>
+            </head>
+
+        <body>
+            <div class="container" col="1" row="1">
+            <h1>Odin Recipes</h1>
+            <a href="recieps/pasta.html"> Lasagna Recipe </a>
+            </div>
+
+            <img src="https://www.lastingredient.com/wp-content/uploads/2018/02/rigatoni-noodles-with-tomato-sauce.jpg" alt="Pasta">
+            <p>This wonderful pasta will make anyone's mouth water</p>
+            <p>This recipe follows a great trendy meal option with a twist of lemon and garlic</p>
+
+        <div class="pad">   
+            <div class="text"> 
+                <h4>Ingredients</h4>
+            <ul>
+                <li>Tomatoes 300g</li>
+                <li>Spaghetti</li>
+                <li>Oregano</li>
+                <li>Vegetable Stock 500ml</li>
+                <li>Muscles / Clams 500g</li>
+                <li>Lemons x3</li>
+                <li>1 Cup Wine</li>
+                <li>Basil</li>
+                <li>1 Tsp Oil</li>
+                <li>2 Onions White</li>
+                <li>Black Pepper & Salt</li>
+            </ul>
+
+                <h3>Steps to Prepare</h3>
+
+            <ol>
+                <li>Par-cook the muscles in garlic, butter and lemon juice for 10mins until they begin to open, place to the side</li>
+                <li>Chop onions & tomatoes, place into pan with 1tsp of oil on low heat</li>
+                <li>Add to the veggies your tomatoes, puree and veggie stock</li>
+                <li>Add in 1tsp salt, 1tsp pepper & a generous pinch of Oregano, add wine and cook down</li>
+                <li>Add the spaghetti to a pot and allow to boil while the sauce nears completion</li>
+                <li>Add in muscles which were set to the side, you can add in clam meat to add more depth to the meal </li>
+                <li>Allow the sauce to complete when oils and fats rise to the top, add in a 1/4 cup of pasta water as well as the spaghetti which should be aldente.</li>
+                <li>Serve while fresh and hot, add Basil to the pasta to add a nice finish to the meal</li>
+            </ol>
+            </div>
+        </div>
+
+        </body>
+        </html>
