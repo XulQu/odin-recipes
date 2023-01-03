@@ -1,5 +1,6 @@
 * {
     font-family:helvetica;
+    
 }
 
 img {
@@ -11,7 +12,7 @@ img {
     padding-top:10px;
     margin-top:-15px;
     margin-left:auto;
-    margin-right:auto;
+    margin-right:275px;
 }
 
 a:link {
@@ -40,7 +41,7 @@ h1  {
     margin-right:auto;
     background:black;
     color: white;
-    padding: 5px 0;
+    padding: 10px 0;
     width:55%;
     margin-top:20px;
 }
@@ -151,4 +152,26 @@ li, ul {
 }
 
 .width {
+    justify-content: center;
+}
+
+.change {
+    display:block;
+    width:55%;
+    margin-left:auto;
+    margin-right:auto;
+    overflow:hidden;
+    justify-items: center;
+    width:100%;
+}
+
+.img2, img {
+    max-width:55%;
+    min-width:400px;
+    margin-bottom:20px;
+    margin-top:20px;
+    padding-top:10px;
+    margin-top:-15px;
+    margin-left:auto;
+    margin-right:auto;
 }
